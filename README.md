@@ -1,3 +1,2 @@
-# SplatoonPresetsWiki
-Just here to make the wiki
-https://github.com/cptjabberwock/SplatoonPresetsList/wiki
+# Splatoon Presets Wiki List
+[Right here](https://github.com/cptjabberwock/SplatoonPresetsList/wiki)
