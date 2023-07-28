@@ -1,0 +1,5 @@
+For boss 3, need more stuff and improvements...
+
+```
+~Lv2~{"Name":"Moko","Group":"A.M.R. Moko the Restless","ZoneLockH":[1155,1156,1137],"ElementsL":[{"Name":"Spread","type":1,"radius":3.0,"overlayText":"Spread","refActorPlaceholder":["<1>","<2>","<3>","<4>"],"refActorRequireBuff":true,"refActorBuffId":[3610],"refActorUseBuffTime":true,"refActorBuffTimeMax":7.0,"refActorComparisonType":5,"includeRotation":true},{"Name":"Stack","type":1,"radius":0.0,"color":255,"overlayText":"Stack","refActorPlaceholder":["<1>","<2>","<3>","<4>"],"refActorRequireBuff":true,"refActorBuffId":[3611],"refActorUseBuffTime":true,"refActorBuffTimeMax":7.0,"refActorComparisonType":5,"includeRotation":true},{"Name":"Scarlet Auspice","type":1,"radius":0.0,"color":2516582655,"refActorNPCNameID":12357,"refActorRequireCast":true,"refActorCastId":[34200,34257,34304],"refActorComparisonType":6,"includeHitbox":true,"onlyVisible":true,"Filled":true},{"Name":"Azure Auspice","type":1,"radius":0.0,"Donut":24.0,"color":2533326080,"refActorNPCNameID":12357,"refActorRequireCast":true,"refActorCastId":[34204,34260,34307],"refActorComparisonType":6,"includeHitbox":true,"onlyVisible":true}]}
+```
