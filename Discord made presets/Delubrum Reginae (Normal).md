@@ -34,11 +34,11 @@ All in one + Merciful Bloom AOE
 
 ## Trinity Avowed
 ###  Hot & Cold [by @Alderan]
-Fire
+Fire 1 Meteor Safe Spot
 ```
 ~Lv2~{"Name":"Trinity Avowed - 1 Fire","Group":"Delubrum Reginae Normal","ZoneLockH":[936],"DCond":5,"ElementsL":[{"Name":"Meteor - Safe Spot","type":1,"radius":21.98,"color":1677786928,"refActorDataID":12523,"refActorComparisonType":3,"onlyVisible":true,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Match":"vfx/common/eff/m0689_stlp2_c0t1.avfx"}]}
 ```
-Ice
+Ice 1 Meteor Safe Spot
 ```
 ~Lv2~{"Name":"Trinity Avowed - 1 Ice","Group":"Delubrum Reginae Normal","ZoneLockH":[936],"DCond":5,"ElementsL":[{"Name":"Meteor - Safe Spot","type":1,"radius":21.98,"color":1677786928,"overlayText":"Safe AOE","refActorDataID":12525,"refActorComparisonType":3,"onlyVisible":true,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Match":"vfx/common/eff/m0689_stlp4_c0t1.avfx"}]}
 ```
