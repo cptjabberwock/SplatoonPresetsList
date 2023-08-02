@@ -1,4 +1,6 @@
+# The Diadem
 * Show nodes and routes for skill point farming (MIN & FSH)
+* Display range : 100m
 * MIN
   * Guideline for using High-Cordial and Cordial (HQ)
 ```
