@@ -1,4 +1,4 @@
-## Palace of The Dead Mobs
+# Palace of The Dead Mobs
 
 Refer to DeepDungeonDex to display the enemy's detection range.
 
