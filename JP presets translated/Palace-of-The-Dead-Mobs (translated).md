@@ -84,7 +84,7 @@ Missing F1-50 (@Saulchar on Discord is making them)
    * Palace Hippogryph (Proximity Detection) probably has a much wider touch detection range (less than 10m), visual detection (about 10m) left as proximity detection for safety **(Can't understand this well)**
    * About Touch Detection (predictions)
       * The following two types of touch detection are used
-         a. Your hitbox or target ring touches the center of the enemy
-         b. Your hitbox or target ring touches the center of the enemy or the enemy ring
+        * a. Your hitbox or target ring touches the center of the enemy
+        * b. Your hitbox or target ring touches the center of the enemy or the enemy ring
       * Expect most enemies to be using a, some may be using b (unverified)
 
