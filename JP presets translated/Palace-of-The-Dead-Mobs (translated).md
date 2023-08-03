@@ -73,7 +73,7 @@ Missing F1-50 (@Saulchar on Discord is making them)
 * Proximity Detection
    * Displays a red circle around proximity detection enemies (10m + target hitbox)
 * Sound Detection
-   * Displays a purple circle around proximity detection enemies (10m + target hitbox)
+   * Displays a purple circle around sound detection enemies (10m + target hitbox)
 * Touch Detection
    * Displays a red dot centered on touch detection enemies
    * Touch Detection guidelines below
