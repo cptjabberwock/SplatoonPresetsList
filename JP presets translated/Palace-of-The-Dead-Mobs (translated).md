@@ -1,6 +1,6 @@
 # Palace of The Dead Mobs
 
-Refer to DeepDungeonDex to display the enemy's detection range.
+Refer to [DeepDungeonDex](https://github.com/wolfcomp/DeepDungeonDex) to display the enemy's detection range.
 
 Display range : 40m
 
