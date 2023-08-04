@@ -5,7 +5,27 @@ Refer to [DeepDungeonDex](https://github.com/wolfcomp/DeepDungeonDex) to display
 Display range : 40m
 
 Missing F1-50 (@Saulchar on Discord is making them)
+```
+* F1-10
+```
 
+```
+* F11-20
+```
+
+```
+* F21-30
+```
+
+```
+* F31-40
+```
+
+```
+* F41-50
+```
+
+```
 * F51-60
 ```
 
