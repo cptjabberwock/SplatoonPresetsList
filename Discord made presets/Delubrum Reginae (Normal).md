@@ -4,7 +4,7 @@
 ```
 ~Lv2~{"Name":"Trinity Seeker","Group":"Delubrum Reginae Normal","ZoneLockH":[936],"ElementsL":[{"Name":"Forward Right","type":3,"refY":19.96,"radius":23.19,"thicc":0.4,"refActorCastTimeMax":10.0,"refActorUseOvercast":true,"refActorRequireBuff":true,"refActorBuffId":[2489],"refActorComparisonType":7,"includeHitbox":true,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":0.7853982,"refActorVFXPath":"vfx/common/eff/m0690_stlp_fr_00c_n1.avfx","refActorVFXMin":9500,"refActorVFXMax":13500},{"Name":"Forward Left","type":3,"refY":19.96,"radius":23.19,"thicc":0.4,"refActorCastTimeMax":10.0,"refActorUseOvercast":true,"refActorRequireBuff":true,"refActorBuffId":[2489],"refActorComparisonType":7,"includeHitbox":true,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":5.497787,"refActorVFXPath":"vfx/common/eff/m0690_stlp_fl_00c_n1.avfx","refActorVFXMin":9500,"refActorVFXMax":13500},{"Name":"Back Right","type":3,"refY":19.92,"radius":23.19,"thicc":0.4,"refActorCastTimeMax":10.0,"refActorUseOvercast":true,"refActorRequireBuff":true,"refActorBuffId":[2489],"refActorComparisonType":7,"includeHitbox":true,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":2.3561945,"refActorVFXPath":"vfx/common/eff/m0690_stlp_br_00c_n1.avfx","refActorVFXMin":9500,"refActorVFXMax":13500},{"Name":"Back Left","type":3,"refY":19.92,"radius":23.19,"thicc":0.4,"refActorCastTimeMax":10.0,"refActorUseOvercast":true,"refActorRequireBuff":true,"refActorBuffId":[2489],"refActorComparisonType":7,"includeHitbox":true,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":3.9269907,"refActorVFXPath":"vfx/common/eff/m0690_stlp_bl_00c_n1.avfx","refActorVFXMin":9500,"refActorVFXMax":13500},{"Name":"Merciful Blooms","type":1,"radius":20.5,"color":1677721855,"overlayText":"AOE","refActorDataID":9020,"refActorRequireCast":true,"refActorCastId":[23213],"refActorCastTimeMin":4.0,"refActorCastTimeMax":10.0,"refActorUseOvercast":true,"refActorComparisonType":3,"onlyUnTargetable":true,"Filled":true},{"Name":"Gaze","type":1,"radius":0.44,"color":3355507455,"thicc":3.0,"overlayText":"Look Away","refActorDataID":12594,"refActorRequireCast":true,"refActorCastId":[23212],"refActorComparisonType":3,"includeRotation":true,"tether":true}]}
 ```
-**Maybe what could be done**
+**To do**
 ```
 Iron Splitter (Sand & Tiles) Unknown how to do it for now
 ```
@@ -14,7 +14,7 @@ Iron Splitter (Sand & Tiles) Unknown how to do it for now
 ```
 ~Lv2~{"Name":"Dahu","Group":"Delubrum Reginae Normal","ZoneLockH":[936],"ElementsL":[{"Name":"Firebreath","type":4,"radius":36.25,"coneAngleMin":-50,"coneAngleMax":50,"refActorDataID":12454,"refActorRequireCast":true,"refActorCastId":[22361,22362],"refActorUseCastTime":true,"refActorCastTimeMax":5.0,"refActorUseOvercast":true,"refActorComparisonType":3,"includeRotation":true,"Filled":true},{"Name":"Charge","type":3,"refY":59.24,"radius":4.65,"thicc":0.0,"refActorDataID":12454,"refActorRequireCast":true,"refActorCastId":[22372],"FillStep":1.0,"refActorComparisonType":3,"includeRotation":true,"LimitDistanceInvert":true,"DistanceMin":17.300001,"DistanceMax":90.799995}]}
 ```
-**Maybe what could be done**
+**To do**
 ```
 Knockback from Dahu Arrow or Line to know where you land
 ```
