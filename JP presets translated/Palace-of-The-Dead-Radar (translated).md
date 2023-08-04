@@ -1,6 +1,6 @@
 ### Palace of The Dead Radar
 
-全ての階で表示される。
+Displayed on all floors
 
 Display range : 100m
 ```
@@ -8,29 +8,29 @@ Display range : 100m
 ```
 * Target Sensing Range
 
-ターゲット対象を中心に、緑色の半径 target hitbox + 10m　の円を表示
+Display a green circle with a radius of 10m + target hitbox centered on the target
 
-ターゲットしている敵の感知範囲の簡易的な目安
+Simplified approximation of the detection range of the targeted enemy
 
 * Mimic Sensing Range
 
-ミミックを中心に、黄色の半径 target hitbox + 14m の円を表示
+Display a yellow circle with target hitbox + 14m radius centered on the mimic
 
-ミミックの感知範囲の目安
+Approximate detection range of mimic
 
 * Mandragora Sensing Range
 
-ピグマイオイを中心に、水色の半径 target hitbox + 14m の円を表示
+Display a light blue circle with target hitbox + 14m radius centered on the mandragora
 
-敵変化によるピグマイオイ出現の目安
+Approximate location of mandragora by enemy change
 
 * Turning Enemies
 
-ターゲット対象を中心に、水色の半径 1.5m の円を表示
+Displays a light blue circle with a radius of 1.5 m centered on the target
 
-ターゲット対象と自身を繋げる直線を表示（tether）
+Displays a straight line connecting the target and itself (tether)
 
-敵回しの目安(tetherのチェックはお好み)
+Guide to turning enemies (check tether if you like)
 
 * Metastasis Tracker
 
