@@ -101,7 +101,7 @@ Missing F1-50 (@Saulchar on Discord is making them)
 * Personal notes, etc (Ungeho)
    * A lot of information in Palace of the Dead is missing
    * Palace Beetle's (Visual Detection) detection range is larger than 10m (unmodified) **(Can't understand this well)**
-   * Palace Hippogryph (Proximity Detection) probably has a much wider touch detection range (less than 10m), visual detection (about 10m) left as proximity detection for safety **(Can't understand this well)**
+   * Palace Hippogryph (Proximity Detection) probably has a much wider touch detection range (less than 10m), visual detection (about 10m) left as proximity detection for safety **(From my understanding, the Hippogryph has Visual Detection, but also a bigger hitbox on Touch Detection so Ungeho let it as Proximity for safety)**
    * About Touch Detection (predictions)
       * The following two types of touch detection are used
         * a. Your hitbox or target ring touches the center of the enemy
