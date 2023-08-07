@@ -10,7 +10,7 @@ Display range : 100m
    * Display a green circle around targeted enemies (radius : 10m + target hitbox)
    * Simplified approximation of the detection range of the targeted enemy (Disable if you use the Mobs preset to keep the Detection type coloring)
 
-* Turning Enemies **(I don't see the point of this layout when you add all others)**
+* Turning Enemies
    * Display a light blue circle around targeted enemies (radius : 1.5m)
    * Display a straight line connecting the target and yourself (tether)
    * Guideline for turning enemies (check tether to your preference)
@@ -41,7 +41,7 @@ Display range : 100m
    * Detect the location of the Bronze Treasure Chest (Mimic)
    * Can be obtained by entering the circle with the "always pixel perfect" (dot at your feet).
 
-* Morphological change Range **(WIP)**
+* Protomander of Witching range
    * Display a light blue circle around yourself (radius : 20m + your hitbox)
    * Approximate range of form change (effective if the enemy's target circle touches the circle)
 
@@ -70,11 +70,11 @@ Display range : 100m
 * Mandragora Sensing Range
    * Display a light blue circle around Mandragoras that appear when the enemy changes (radius : 10m + target hitbox)
 
-* Turning Enemies (Right/Left) point **(WIP)**
+* Turning Enemies (Right/Left) point
    * Display a light blue circle (radius: 0.1m) at an angle (0/180) degrees (right beside the enemy) on a circle with a radius of 1.5m centered on the target with the light blue circle filled in.
    * (Keep turning so that the target can keep standing at the position of the filled circle)
 
-* Turning Enemies Forward **(WIP)**
+* Turning Enemies Forward
    * Display a 90-degree forward cone in light blue with the target at its center.
    * (Keep turning so as not to step over the indicated line.)
 
