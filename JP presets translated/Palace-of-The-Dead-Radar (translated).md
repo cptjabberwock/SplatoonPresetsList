@@ -10,15 +10,15 @@ Display range : 100m
    * Display a green circle around targeted enemies (radius : 10m + target hitbox)
    * Simplified approximation of the detection range of the targeted enemy (Disable if you use the Mobs preset to keep the Detection type coloring)
 
-* Mimic Sensing Range **(WIP)**
+* Mimic Sensing Range
    * Display a yellow circle around Mimics (radius : 14m + target hitbox)
-   * Approximate the detection range of mimic (Pomander of Alteration)
+   * Approximate the detection range for mimic
 
-* Mandragora Sensing Range **(WIP)**
+* Mandragora Sensing Range
    * Display a light blue circle around Pygmaioi Mandragoras (radius : 14m + target hitbox)
-   * Approximate the detection range of mandragora (Pomander of Alteration)
+   * Estimated appearance of Pygmaioi by enemy change
 
-* Turning Enemies **(I don't see the point of this layout when you add all others)**
+* Turning Enemies
    * Display a light blue circle around targeted enemies (radius : 1.5m)
    * Display a straight line connecting the target and yourself (tether)
    * Guideline for turning enemies (check tether to your preference)
