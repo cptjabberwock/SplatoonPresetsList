@@ -4,45 +4,45 @@ Refer to [DeepDungeonDex](https://github.com/wolfcomp/DeepDungeonDex) to display
 
 Display range : 40m
 
-Missing F1-20 (@Saulchar on Discord is making them)
+Missing 1-20F (@Saulchar on Discord is making them)
 
-* F1-10
-```
-
-```
-* F11-20
+* 1-10F
 ```
 
 ```
-* F21-30
+* 11-20F
 ```
 
 ```
-* F31-40
+* 21-30F
 ```
 
 ```
-* F41-50
+* 31-40F
 ```
 
 ```
-* F51-60
+* 41-50F
 ```
 
 ```
-* F61-70
+* 51-60F
 ```
 
 ```
-* F71-80
+* 61-70F
 ```
 
 ```
-* F81-90
+* 71-80F
 ```
 
 ```
-* F91-100
+* 81-90F
+```
+
+```
+* 91-100F
 ```
 
 ```
