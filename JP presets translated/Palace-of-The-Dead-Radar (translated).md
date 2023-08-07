@@ -15,7 +15,7 @@ Display range : 100m
    * Approximate the detection range of mimic (Pomander of Alteration)
 
 * Mandragora Sensing Range **(WIP)**
-   * Display a light blue circle around Pygmaioi Mandragora (radius : 14m + target hitbox)
+   * Display a light blue circle around Pygmaioi Mandragoras (radius : 14m + target hitbox)
    * Approximate the detection range of mandragora (Pomander of Alteration)
 
 * Turning Enemies **(I don't see the point of this layout when you add all others)**
