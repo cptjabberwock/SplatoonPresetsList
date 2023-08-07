@@ -46,3 +46,12 @@ Missing F1-20 (@Saulchar on Discord is making them)
 ```
 
 ```
+* Visual Detection
+   * Displays a green circle around visual detection enemies (radius : 10m + target hitbox)
+   * Displays a green 90° front cone on visual detection enemies
+* Proximity Detection
+   * Displays a red circle around proximity detection enemies (radius : 10m + target hitbox)
+* Sound Detection
+   * Displays a purple circle around sound detection enemies (radius : 10m + target hitbox)
+* Touch Detection
+   * Displays a red dot centered all enemies
