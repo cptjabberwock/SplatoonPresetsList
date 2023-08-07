@@ -41,7 +41,7 @@ Display range : 100m
    * Detect the location of the Bronze Treasure Chest (Mimic)
    * Can be obtained by entering the circle with the "always pixel perfect" (dot at your feet).
 
-* Morphological change Range **(WIP)**
+* Pomander of Witching range
    * Display a light blue circle around yourself (radius : 20m + your hitbox)
    * Approximate range of form change (effective if the enemy's target circle touches the circle)
 
