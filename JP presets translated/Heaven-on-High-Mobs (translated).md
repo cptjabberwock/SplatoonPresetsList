@@ -42,7 +42,7 @@ Missing 1-20F (@Saulchar on Discord is making them)
 ```
 
 ```
-* 91-100F
+* 91-99F
 ```
 
 ```
