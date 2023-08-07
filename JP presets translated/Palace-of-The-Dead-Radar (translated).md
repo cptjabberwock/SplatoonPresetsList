@@ -12,7 +12,7 @@ Display range : 100m
 
 * Mimic Sensing Range
    * Display a yellow circle around Mimics (radius : 14m + target hitbox)
-   * Approximate the detection range for mimic
+   * Mimic sensing range indicator 
 
 * Mandragora Sensing Range
    * Display a light blue circle around Pygmaioi Mandragoras (radius : 14m + target hitbox)
