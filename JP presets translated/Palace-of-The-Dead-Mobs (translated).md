@@ -95,7 +95,7 @@ Missing F1-50 (@Saulchar on Discord is making them)
 * Sound Detection
    * Displays a purple circle around sound detection enemies (radius : 10m + target hitbox)
 * Touch Detection
-   * Displays a red dot centered on touch detection enemies
+   * Displays a red dot centered on all enemies
    * Touch Detection guidelines below
 
 * Personal notes, etc (Ungeho)
