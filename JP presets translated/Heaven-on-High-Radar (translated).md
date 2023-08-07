@@ -1,4 +1,4 @@
-# heaven-on-High Radar
+# Heaven-on-High Radar
 
 Displayed on all floors
 
