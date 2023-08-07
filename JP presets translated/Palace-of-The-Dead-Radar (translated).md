@@ -16,7 +16,7 @@ Display range : 100m
 
 * Mandragora Sensing Range
    * Display a light blue circle around Pygmaioi Mandragoras (radius : 14m + target hitbox)
-   * Estimated appearance of Pygmaioi by enemy change
+   * Mandragora appearance indicator by pom alteration
 
 * Turning Enemies
    * Display a light blue circle around targeted enemies (radius : 1.5m)
