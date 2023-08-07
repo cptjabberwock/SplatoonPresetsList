@@ -10,7 +10,7 @@ Display range : 100m
    * Display a green circle around targeted enemies (radius : 10m + target hitbox)
    * Simplified approximation of the detection range of the targeted enemy (Disable if you use the Mobs preset to keep the Detection type coloring)
 
-* Turning Enemies **(I don't see the point of this layout when you add all others)**
+* Turning Enemies
    * Display a light blue circle around targeted enemies (radius : 1.5m)
    * Display a straight line connecting the target and yourself (tether)
    * Guideline for turning enemies (check tether to your preference)
