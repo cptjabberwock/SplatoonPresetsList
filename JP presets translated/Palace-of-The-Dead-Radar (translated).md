@@ -49,7 +49,7 @@ Display range : 100m
    * Detect the location of the Bronze Treasure Chest (Mimic)
    * Can be obtained by entering the circle with the "always pixel perfect" (dot at your feet).
 
-* Morphological change Range **(WIP)**
+* Pomander of Witching range
    * Display a light blue circle around yourself (radius : 20m + your hitbox)
    * Approximate range of form change (effective if the enemy's target circle touches the circle)
 
@@ -72,11 +72,11 @@ Display range : 100m
       * When the displayed circle touches the point indicated by the [Deep Dungeon Helper](https://github.com/Speshkitty/DalamudPlugins/blob/main/repo.json) plug-in, the trap will detonate if one exists at that location.
       * Similarly, treasures found by treasure detection can be dug up by placing them within the circle displayed by the Trap Hitbox.
 
-* Turning Enemies (Right/Left) point **(WIP)**
+* Turning Enemies (Right/Left) point
    * Display a light blue circle (radius: 0.1m) at an angle (0/180) degrees (right beside the enemy) on a circle with a radius of 1.5m centered on the target with the light blue circle filled in.
    * (Keep turning so that the target can keep standing at the position of the filled circle)
 
-* Turning Enemies Forward **(WIP)**
+* Turning Enemies Forward
    * Display a 90-degree forward cone in light blue with the target at its center.
    * (Keep turning so as not to step over the indicated line.)
 
