@@ -1,6 +1,6 @@
 # Heaven-on-High Mobs
 
-Refer to [DeepDungeonDex](https://github.com/wolfcomp/DeepDungeonDex) to display the enemy's detection range.
+Refer to [DeepDungeonDex](https://github.com/wolfcomp/DeepDungeonDex) to display the enemy's detection ranges and weaknesses/resistances.
 
 Display range : 40m
 
