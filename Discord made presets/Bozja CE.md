@@ -17,7 +17,7 @@
 ```
 ### Vigil for the Lost
 ```diff
-! Everything on this fight is already telegraphed and I see nothing to make a layoutt for
+! Everything on this fight is already telegraphed and I see no reason to make a layout for it
 ```
 ### Duel - Aces High
 
