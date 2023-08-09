@@ -16,9 +16,8 @@
 
 ```
 ### Vigil for the Lost
-
-```
-
+```diff
+! Everything on this fight is already telegraphed and I see nothing to make a layoutt for
 ```
 ### Duel - Aces High
 
