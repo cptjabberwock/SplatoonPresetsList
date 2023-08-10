@@ -65,13 +65,13 @@ Display range : 100m
       * Similarly, treasures found by treasure detection can be dug up by placing them within the circle displayed by the Trap Hitbox.
 
 * Mimic Sensing Range(1-29F)
-   * Display a yellow circle around Wriggling Treasure Chest that appear on Bronze Chests (radius : 10m + target hitbox)
+   * Display a yellow circle around Quivering Coffer that appear on Bronze Chests (radius : 10m + target hitbox)
 
 * Mimic Sensing Range(31-60F)
-   * Display a yellow circle around Wriggling Treasure Chest that appear on Silver Chests (radius : 10m + target hitbox)
+   * Display a yellow circle around Quivering Coffer that appear on Silver Chests (radius : 10m + target hitbox)
 
 * Mimic Sensing Range(61-99F)
-   * Display a yellow circle around Wriggling Treasure Chest that appear on Gold Chests (radius : 10m + target hitbox)
+   * Display a yellow circle around Quivering Coffer that appear on Gold Chests (radius : 10m + target hitbox)
 
 * Mandragora Sensing Range
    * Display a light blue circle around Mandragoras that appear when the enemy changes (radius : 10m + target hitbox)
