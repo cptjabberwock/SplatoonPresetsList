@@ -1,4 +1,4 @@
-# Deep Dungeons Traps Names (#Feral)
+# Deep Dungeons Traps Names (@Feral)
 After using a Protomander of Sight
 
 ## All in one
