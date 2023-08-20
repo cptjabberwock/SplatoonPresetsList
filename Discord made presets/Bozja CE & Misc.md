@@ -2,7 +2,7 @@
 Bozjan Riders & Doll in Z3 that we always aggro while trying to farm the Starmob
 Proximity Ring (9m + Target Hitbox)
 ```
-~Lv2~{"Name":"Bozja V Mobs evade","Group":"Bozja CE & Misc","ZoneLockH":[920],"ElementsL":[{"Name":"Bozjan Doll (Proximity)","type":1,"radius":9.0,"refActorNPCNameID":9573,"refActorComparisonType":6,"includeHitbox":true},{"Name":"Bozjan Rider (Proximity)","type":1,"radius":9.0,"refActorNPCNameID":9575,"refActorComparisonType":6,"includeHitbox":true}],"MaxDistance":60.0,"UseDistanceLimit":true,"DistanceLimitType":1}
+~Lv2~{"Name":"Bozja V Mobs Proximity Detection","Group":"Bozja CE & Misc","ZoneLockH":[920],"ElementsL":[{"Name":"Bozjan Doll (Proximity)","type":1,"radius":9.0,"refActorNPCNameID":9573,"refActorComparisonType":6,"includeHitbox":true},{"Name":"Bozjan Rider (Proximity)","type":1,"radius":9.0,"refActorNPCNameID":9575,"refActorComparisonType":6,"includeHitbox":true}],"MaxDistance":60.0,"UseDistanceLimit":true,"DistanceLimitType":1}
 ```
 # Bozja Critical Engagements
 ## Zone 1
