@@ -21,9 +21,11 @@ Zadnor Golems Sight Detection Cone + Ring (10m + Target Hitbox)
 
 ```
 ### A Familiar Face
-
+Used Kit's preset as start
+* Recolored all from blue to red
+* Added Hammerfall gigantic AOE
 ```
-
+~Lv2~{"Name":"Z1 A familiar Face","Group":"Zadnor CE & Misc","ZoneLockH":[975],"ElementsL":[{"Name":"Control Tower","type":3,"offY":40.0,"radius":5.0,"color":1677721855,"refActorDataID":2011517,"refActorObjectLife":true,"refActorLifetimeMin":0.0,"refActorLifetimeMax":23.0,"FillStep":0.3,"refActorComparisonType":3,"includeRotation":true},{"Name":"Extreme Edge - Right Arm","type":3,"refX":12.0,"offX":12.0,"offY":60.0,"radius":18.0,"color":1677721855,"refActorNPCNameID":10062,"refActorRequireCast":true,"refActorCastId":[23821],"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true},{"Name":"Extreme Edge - Left Arm","type":3,"refX":-12.0,"offX":-12.0,"offY":60.0,"radius":18.0,"color":1677721855,"refActorNPCNameID":10062,"refActorRequireCast":true,"refActorCastId":[23822],"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true},{"Name":"Hammerfall","type":1,"radius":37.0,"color":1677721855,"refActorDataID":2011519,"refActorObjectLife":true,"refActorLifetimeMin":5.0,"refActorLifetimeMax":12.0,"refActorComparisonType":3,"Filled":true}]}
 ```
 ### Duel - The Broken Blade
 
