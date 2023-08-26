@@ -1,3 +1,8 @@
+# Misc
+Zadnor Golems Sight Detection Cone + Ring (10m + Target Hitbox)
+```
+~Lv2~{"Name":"Zadnor V Mobs Detection","Group":"Zadnor CE & Misc","ZoneLockH":[975],"ElementsL":[{"Name":"Zadnor Golem (Sight)","type":4,"radius":10.0,"coneAngleMin":-45,"coneAngleMax":45,"color":3355508480,"thicc":0.0,"refActorNPCNameID":10169,"FillStep":15.0,"refActorComparisonType":6,"includeHitbox":true,"includeRotation":true,"Filled":true},{"Name":"Zadnor Golem (Sight Range)","type":1,"radius":10.0,"color":3355508480,"refActorNPCNameID":10169,"refActorComparisonType":6,"includeHitbox":true}],"MaxDistance":60.0,"UseDistanceLimit":true,"DistanceLimitType":1}
+```
 # Zadnor Critical Engagements
 ## Zone 1
 ### On Serpents' Wings
