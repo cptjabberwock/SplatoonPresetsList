@@ -11,9 +11,11 @@ Zadnor Golems Sight Detection Cone + Ring (10m + Target Hitbox)
 
 ```
 ### With Diremite and Main
-
+Used Kit's preset as start
+* Changed Silver Spikes "Go Yellow" to "Behind Silver Spikes"
+* Changed Yellow Spikes "Go Silver" to "Behind Yellow Spikes"
 ```
-
+~Lv2~{"Name":"Z1 Diremite and Main","Group":"Zadnor CE & Misc","ZoneLockH":[975],"ElementsL":[{"Name":"1","type":1,"Enabled":false,"radius":0.0,"color":255,"overlayBGColor":4278190080,"overlayTextColor":4294967295,"overlayVOffset":2.75,"overlayFScale":1.5,"thicc":0.0,"overlayText":"1","refActorComparisonType":7,"onlyVisible":true,"refActorVFXPath":"vfx/lockon/eff/m0361trg_a1t.avfx","refActorVFXMax":30000},{"Name":"2","type":1,"Enabled":false,"radius":0.0,"color":255,"overlayBGColor":4278190080,"overlayTextColor":4294967295,"overlayVOffset":2.75,"overlayFScale":1.5,"thicc":0.0,"overlayText":"2","refActorComparisonType":7,"onlyVisible":true,"refActorVFXPath":"vfx/lockon/eff/m0361trg_a2t.avfx","refActorVFXMax":30000},{"Name":"3","type":1,"Enabled":false,"radius":0.0,"color":255,"overlayBGColor":4278190080,"overlayTextColor":4294967295,"overlayVOffset":2.75,"overlayFScale":1.5,"thicc":0.0,"overlayText":"3","refActorComparisonType":7,"onlyVisible":true,"refActorVFXPath":"vfx/lockon/eff/m0361trg_a3t.avfx","refActorVFXMax":30000},{"Name":"4","type":1,"Enabled":false,"radius":0.0,"color":255,"overlayBGColor":4278190080,"overlayTextColor":4294967295,"overlayVOffset":2.75,"overlayFScale":1.5,"thicc":0.0,"overlayText":"4","refActorComparisonType":7,"onlyVisible":true,"refActorVFXPath":"vfx/lockon/eff/m0361trg_a4t.avfx","refActorVFXMax":30000},{"Name":"Silver Spikes","type":1,"radius":0.0,"color":255,"overlayBGColor":4278190080,"overlayTextColor":4294967295,"overlayVOffset":2.0,"overlayText":"Behind Silver Spikes","refActorComparisonType":7,"refActorVFXPath":"vfx/common/eff/m0001_cast_phy0.avfx","refActorVFXMax":30000},{"Name":"Yellow Spikes","type":1,"radius":0.0,"color":255,"overlayBGColor":4278190080,"overlayTextColor":4294967295,"overlayVOffset":2.0,"overlayText":"Behind Yellow Spikes","refActorComparisonType":7,"refActorVFXPath":"vfx/common/eff/m0001_cast_mag0.avfx","refActorVFXMax":30000},{"Name":"Sand Sphere","type":1,"radius":8.0,"color":1677721855,"refActorName":"Sand Sphere","refActorRequireCast":true,"refActorCastId":[24080],"Filled":true}]}
 ```
 ### From Beyond the Grave
 
