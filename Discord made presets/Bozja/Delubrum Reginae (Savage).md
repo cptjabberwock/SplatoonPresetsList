@@ -28,6 +28,8 @@
 **To do**
 ```diff
 ! Differentiate the turrets with the Mustadio vuln and the normal Turret Tour
+! Wind and thunder circles depending on Debuff or not
+! Bombs
 ```
 ## Bozjan Phantom
 ### Cube Shape / Knockback
@@ -36,7 +38,7 @@
 ```
 **To do**
 ```diff
-!  
+! 
 ```
 ## Trinity Avowed
 ### Arsenal (Staff-Sword-Bow) / Gleaming Arrow
@@ -66,7 +68,7 @@ Fire 1 Meteor Safe Spot
 ```
 **To do**
 ```diff
-!  
+! 
 ```
 
 ## The Queen
@@ -75,5 +77,5 @@ Fire 1 Meteor Safe Spot
 ```
 **To do**
 ```diff
-!  Chess Solver (may need a script)
+! Chess Solver (may need a script)
 ```
