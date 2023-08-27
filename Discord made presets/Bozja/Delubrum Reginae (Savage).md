@@ -75,7 +75,7 @@ Fire 1 Meteor Safe Spot
 ```diff
 ! Destructive Bolt donuts on inner and outer circles
 ! Balls of Earth and Fire
-! find a way to make an arrow that point towards the boss or away from the boss but from the player depending on push or pull debuff
+! Push and Pull Debuff resolution
 ! 1111 Tonze Swing aoe
 ! Maybe also the meteor (no need to run to Madagascar, there is a safe point where you get 5-7k damage)
 ```
