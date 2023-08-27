@@ -7,7 +7,8 @@
 **To do**
 ```diff
 ! Iron Splitter (Sand & Tiles) Unknown how to do it for now
-! Improve timing on Mercy
+! Improve timing on Blades of Mercy
+! Ravana Dashes
 ```
 
 ## Dahu
@@ -38,7 +39,7 @@
 ```
 **To do**
 ```diff
-! 
+! Its mostly straightforward here since you only need to follow the RL and I don't think there is a knockback since the add phase is kill reds and fully heal whites
 ```
 ## Trinity Avowed
 ### Arsenal (Staff-Sword-Bow) / Gleaming Arrow
@@ -68,7 +69,11 @@ Fire 1 Meteor Safe Spot
 ```
 **To do**
 ```diff
-! 
+! Destructive Bolt donuts on inner and outer circles
+! Balls of Earth and Fire
+! find a way to make an arrow that point towards the boss or away from the boss but from the player depending on push or pull debuff
+! 1111 Tonze Swing aoe
+! Maybe also the meteor (no need to run to Madagascar, there is a safe point where you get 5-7k damage)
 ```
 
 ## The Queen
@@ -78,4 +83,6 @@ Fire 1 Meteor Safe Spot
 **To do**
 ```diff
 ! Chess Solver (may need a script)
+! make sure Queen's Guard Mechs applies here
+! Judgment Blade
 ```
