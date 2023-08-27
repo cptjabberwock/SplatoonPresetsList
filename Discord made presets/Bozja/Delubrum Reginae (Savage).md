@@ -1,4 +1,4 @@
-# Delubrum Reginae Normal
+# Delubrum Reginae Savage
 ## Trinity Seeker
 ### Merciful Fourfold (Blades of Mercy) / Merciful Blooms (growing aoe) / Merciful Moon (gaze)
 ```
