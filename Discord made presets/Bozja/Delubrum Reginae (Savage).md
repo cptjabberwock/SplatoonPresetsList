@@ -1,4 +1,8 @@
 # Delubrum Reginae Savage
+## Slimes/Golems
+```diff
+! Can't think of something to do here beside obeying your leader and do your assigned tasks
+```
 ## Trinity Seeker
 ### Merciful Fourfold (Blades of Mercy) / Merciful Blooms (growing aoe) / Merciful Moon (gaze)
 ```
