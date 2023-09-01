@@ -68,15 +68,13 @@ Fire 1 Meteor Safe Spot
 ```
 
 ## Stygimoloch Lord
+### Ball of Earth/Fire (Healers) / Devastating Bolt Inner & Outer Rings / 1111-Tonze Swing
 ```
-
+~Lv2~{"Name":"Stygimoloch Lord","Group":"Delubrum Reginae Savage","ZoneLockH":[937],"ElementsL":[{"Name":"Devastating Bolt Inner","type":1,"radius":12.0,"Donut":5.0,"refActorNPCNameID":9759,"refActorRequireCast":true,"refActorCastId":[22470],"FillStep":0.2,"refActorComparisonType":6},{"Name":"Devastating Bolt Outer","type":1,"radius":25.0,"Donut":5.0,"refActorNPCNameID":9759,"refActorRequireCast":true,"refActorCastId":[22470],"FillStep":0.2,"refActorComparisonType":6},{"Name":"Ball of Earth","type":1,"radius":0.0,"color":255,"overlayVOffset":1.0,"overlayText":"Dispel then hit","refActorNPCNameID":9763,"refActorComparisonType":6},{"Name":"Ball of Fire","type":1,"radius":6.0,"color":1677721855,"overlayVOffset":1.0,"overlayText":"Reflect","refActorNPCNameID":9761,"refActorRequireCast":true,"refActorCastId":[22494],"refActorComparisonType":6,"Filled":true},{"Name":"1111-tonze-swing","type":1,"radius":20.0,"color":1677721855,"refActorNPCNameID":9759,"refActorRequireCast":true,"refActorCastId":[22488],"refActorComparisonType":6,"Filled":true}]}
 ```
 **To do**
 ```diff
-! Destructive Bolt donuts on inner and outer circles
-! Balls of Earth and Fire
 ! Push and Pull Debuff resolution
-! 1111 Tonze Swing aoe
 ! Maybe also the meteor (no need to run to Madagascar, there is a safe point where you get 5-7k damage)
 ```
 
