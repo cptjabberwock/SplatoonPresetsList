@@ -1,7 +1,7 @@
 # Delubrum Reginae Savage
 ## Slimes/Golems
 ```diff
-! Can't think of something to do here beside obeying your leader and do your assigned tasks
+! Follow the Raid leader orders
 ```
 ## Trinity Seeker
 ### Merciful Fourfold (Blades of Mercy) / Merciful Blooms (growing aoe) / Merciful Moon (gaze)
@@ -13,6 +13,16 @@
 ! Iron Splitter (Sand & Tiles) Unknown how to do it for now
 ! Improve timing on Blades of Mercy
 ! Ravana Dashes
+```
+***
+## DUEL - Stygimoloch Warrior
+### Mechanics
+```
+
+```
+**To do**
+```diff
+! Look over recordings and put text over the boss saying what to do
 ```
 ***
 ## Dahu
