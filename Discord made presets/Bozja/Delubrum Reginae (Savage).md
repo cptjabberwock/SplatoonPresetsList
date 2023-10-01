@@ -14,7 +14,7 @@
 ! Improve timing on Blades of Mercy
 ! Ravana Dashes
 ```
-
+***
 ## Dahu
 ### Firebreath / Charge
 ```
@@ -24,7 +24,7 @@
 ```diff
 ! Knockback from Dahu Arrow or Line to know where you land
 ```
-
+***
 ## Queen's Guard
 ### Shield & Sword Omen (Knight) / Bombs (Warrior) / Secrets Revealed (Soldier) / Turret's Tour (Gunner)
 ```
@@ -36,6 +36,7 @@
 ! Wind and thunder circles depending on Debuff or not
 ! Bombs
 ```
+***
 ## Bozjan Phantom
 ### Cube Shape / Knockback
 ```
@@ -45,6 +46,7 @@
 ```diff
 ! Its mostly straightforward here since you only need to follow the RL and I don't think there is a knockback since the add phase is kill reds and fully heal whites
 ```
+***
 ## Trinity Avowed
 ### Arsenal (Staff-Sword-Bow) / Gleaming Arrow
 ```
@@ -66,7 +68,7 @@ Fire 1 Meteor Safe Spot
 ! Arrow solver : May need a script to solve it (maybe ask Bossmod Dev if he could tell us)
 ! Blades of Entropy solver 
 ```
-
+***
 ## Stygimoloch Lord
 ### Ball of Earth/Fire (Healers) / Devastating Bolt Inner & Outer Rings / 1111-Tonze Swing
 ```
@@ -77,7 +79,7 @@ Fire 1 Meteor Safe Spot
 ! Push and Pull Debuff resolution
 ! Maybe also the meteor (no need to run to Madagascar, there is a safe point where you get 5-7k damage)
 ```
-
+***
 ## The Queen
 ```
 
