@@ -10,7 +10,7 @@
 ```
 **To do**
 ```diff
-! Iron Splitter (Sand & Tiles) Unknown how to do it for now
+! Iron Splitter (Sand & Tiles) : Spell ID is the same for Sand & Tiles both AND the same for the Trinity and its avatars
 ! Improve timing on Blades of Mercy
 ! Ravana Dashes
 ```
