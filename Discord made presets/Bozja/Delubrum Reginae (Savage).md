@@ -48,13 +48,13 @@
 ```
 ***
 ## Bozjan Phantom
-### Cube Shape / Knockback
+### Cube Shape
 ```
 
 ```
 **To do**
 ```diff
-! Its mostly straightforward here since you only need to follow the RL and I don't think there is a knockback since the add phase is kill reds and fully heal whites
+! Follow the Raid leader orders
 ```
 ***
 ## Trinity Avowed
