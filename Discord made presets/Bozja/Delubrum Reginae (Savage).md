@@ -15,7 +15,7 @@ Merciful Fourfold is deactivated by default until I find a way to have better ti
 ```
 ### Baleful Blade (Knockback into Barricades)
 ```
-
+~Lv2~{"Name":"Trinity Seeker - Baleful Blade Knockback","Group":"Delubrum Reginae Savage","ZoneLockH":[937],"DCond":5,"ElementsL":[{"Name":"Baleful Blade Knockback","refY":278.0,"refZ":8.000001,"radius":0.0,"color":1677786880,"overlayVOffset":0.5,"overlayFScale":2.0,"thicc":0.0,"overlayText":"In front of Barricades","refActorNPCNameID":9834,"refActorRequireCast":true,"refActorCastId":[23230],"refActorComparisonType":6,"onlyTargetable":true,"onlyVisible":true},{"Name":"Baleful Blade Knockback SW","type":5,"refY":278.0,"refZ":8.0,"radius":20.0,"coneAngleMin":-22,"coneAngleMax":22,"color":1677786880,"thicc":4.0,"includeRotation":true,"AdditionalRotation":0.7853982,"Filled":true},{"Name":"Baleful Blade Knockback NW","type":5,"refY":278.0,"refZ":8.0,"radius":20.0,"coneAngleMin":-22,"coneAngleMax":22,"color":1677786880,"thicc":4.0,"includeRotation":true,"AdditionalRotation":2.3561945,"Filled":true},{"Name":"Baleful Blade Knockback NE","type":5,"refY":278.0,"refZ":8.0,"radius":20.0,"coneAngleMin":-22,"coneAngleMax":22,"color":1677786880,"thicc":4.0,"includeRotation":true,"AdditionalRotation":3.9269907,"Filled":true},{"Name":"Baleful Blade Knockback SE","type":5,"refY":278.0,"refZ":8.0,"radius":20.0,"coneAngleMin":-22,"coneAngleMax":22,"color":1677786880,"thicc":4.0,"includeRotation":true,"AdditionalRotation":5.497787,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":8.0,"MatchIntl":{"En":"Trinity Seeker starts casting 23231 (9834>23231)"}}]}
 ```
 **To do**
 ```diff
