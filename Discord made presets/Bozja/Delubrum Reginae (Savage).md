@@ -1,8 +1,4 @@
 # Delubrum Reginae Savage
-## Slimes/Golems
-```diff
-! Follow the Raid leader orders
-```
 ## Trinity Seeker
 ### Merciful Fourfold (Blades of Mercy) | Merciful Blooms (growing aoe) | Merciful Moon (gaze) | Baleful Firestorm (Dashes)
 Merciful Fourfold is deactivated by default until I find a way to have better timing
