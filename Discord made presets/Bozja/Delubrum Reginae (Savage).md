@@ -21,6 +21,7 @@ Merciful Fourfold is deactivated by default until I find a way to have better ti
 ```diff
 ! Iron Splitter (Sand & Tiles) : Spell ID & VFX are the same for Sand & Tiles both AND the same for the Trinity and its avatars
 ! Improve timing on Blades of Mercy : Resolution have faster cast time than the readyness so it resolve faster than the layout have time to disappear or appear
+! Dead Iron (Earthshaker) : find a way to make cones from boss to people with specific VFX on them
 ```
 ***
 ## DUEL - Stygimoloch Warrior
