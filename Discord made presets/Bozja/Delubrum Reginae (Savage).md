@@ -84,7 +84,7 @@ Fire 1 Meteor Safe Spot
 **To do**
 ```diff
 ! Push and Pull Debuff resolution
-! Maybe also the meteor (no need to run to Madagascar, there is a safe point where you get 5-7k damage)
+! Crushing Hoof (Meteor Dive) AOE on the destination: Can't find the VFX for the proximity marker
 ```
 ***
 ## The Queen
