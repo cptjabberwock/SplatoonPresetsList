@@ -1,4 +1,4 @@
-# Delubrum Reginae Normal (by Alderan)
+# Delubrum Reginae (Normal) by Alderan
 ## Trinity Seeker
 ### Merciful Fourfold (Blades of Mercy) / Merciful Blooms (growing aoe) / Merciful Moon (gaze)
 ```
