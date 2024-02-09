@@ -26,14 +26,12 @@ Merciful Fourfold is deactivated by default until I find a way to have better ti
 ~Lv2~{"Name":"Duel - Stygimoloch Warrior","Group":"Delubrum Reginae Savage","ZoneLockH":[937],"ElementsL":[{"Name":"Surge of Vigor","type":1,"radius":0.0,"overlayVOffset":1.0,"overlayFScale":1.5,"thicc":0.0,"overlayText":"DISPEL THE BUFF","refActorNPCNameID":9754,"refActorRequireCast":true,"refActorCastId":[22422],"refActorUseCastTime":true,"refActorCastTimeMax":5.0,"refActorUseOvercast":true,"refActorComparisonType":6,"onlyVisible":true},{"Name":"Unrelenting Charge","type":1,"radius":0.0,"overlayVOffset":1.0,"overlayFScale":1.5,"thicc":0.0,"overlayText":"USE ARMS LENGTH/SURECAST","refActorNPCNameID":9754,"refActorRequireCast":true,"refActorCastId":[22425,22426],"refActorComparisonType":6,"onlyVisible":true},{"Name":"Vicious Swipe","type":1,"radius":0.04,"overlayVOffset":1.0,"overlayFScale":1.5,"thicc":0.0,"overlayText":"OUT THEN IN FOR KNOCKBACK","refActorNPCNameID":9754,"refActorRequireCast":true,"refActorCastId":[22423],"refActorComparisonType":6,"onlyVisible":true},{"Name":"Withering Curse","type":1,"radius":0.0,"overlayVOffset":1.0,"overlayFScale":1.5,"thicc":0.0,"overlayText":"USE MINI TRAP (Pink)","refActorNPCNameID":9754,"refActorRequireCast":true,"refActorCastId":[22405,22406],"refActorComparisonType":6,"onlyVisible":true},{"Name":"Surging Flames","type":1,"radius":0.0,"overlayVOffset":1.0,"overlayFScale":1.5,"thicc":0.0,"overlayText":"USE FROST TRAP (Blue)","refActorNPCNameID":9754,"refActorRequireCast":true,"refActorCastId":[22401,22402],"refActorComparisonType":6,"onlyVisible":true},{"Name":"Surging Flood","type":1,"radius":0.0,"overlayVOffset":1.0,"overlayFScale":1.5,"thicc":0.0,"overlayText":"USE FROG TRAP (Green)","refActorNPCNameID":9754,"refActorRequireCast":true,"refActorCastId":[22403,22404],"refActorComparisonType":6,"onlyVisible":true},{"Name":"Leaping Spark","type":1,"radius":0.0,"overlayVOffset":1.0,"overlayFScale":1.5,"thicc":0.0,"overlayText":"USE FROG TRAP AGAIN","refActorNPCNameID":9754,"refActorRequireCast":true,"refActorCastId":[22410,22411],"refActorComparisonType":6,"onlyVisible":true},{"Name":"Sun's Ire (Enrage)","type":1,"radius":0.0,"overlayVOffset":1.0,"overlayFScale":2.0,"thicc":0.0,"overlayText":"KILL HIMMMMMM (ENRAGE)","refActorNPCNameID":9754,"refActorRequireCast":true,"refActorCastId":[22394,22395,22446],"refActorComparisonType":6,"onlyVisible":true}]}
 ```
 ***
-## 
 ## ${\sf \color{orange}Dahu}$
 ### Firebreath | Charge | Feral Howl
 ```
 ~Lv2~{"Name":"Dahu","Group":"Delubrum Reginae Savage","ZoneLockH":[937],"ElementsL":[{"Name":"Firebreath","type":4,"radius":36.25,"coneAngleMin":-45,"coneAngleMax":45,"refActorDataID":12456,"refActorRequireCast":true,"refActorCastId":[22380],"refActorUseCastTime":true,"refActorCastTimeMax":4.5,"refActorUseOvercast":true,"refActorComparisonType":3,"includeRotation":true,"Filled":true},{"Name":"Charge","type":3,"refY":59.24,"radius":4.0,"thicc":0.0,"refActorDataID":12456,"refActorRequireCast":true,"refActorCastId":[22387],"FillStep":1.0,"refActorComparisonType":3,"includeRotation":true,"LimitDistanceInvert":true,"DistanceMin":17.300001,"DistanceMax":90.799995},{"Name":"Feral Howl","type":3,"offY":40.0,"radius":0.0,"thicc":10.0,"refActorNPCNameID":9751,"refActorRequireCast":true,"refActorCastId":[22375],"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true,"FaceMe":true}]}
 ```
 ***
-## 
 ## ${\sf \color{orange}Queen's \space Guard}$
 ### Shield & Sword Omen (Knight) | Bombs (Warrior) / Secrets Revealed (Soldier) | Turret's Tour (Gunner)
 ```
@@ -46,8 +44,7 @@ Merciful Fourfold is deactivated by default until I find a way to have better ti
 ! Bombs
 ```
 ***
-## Bozjan Phantom
-## ${\sf \color{orange}Trinity \space Seeker}$
+## ${\sf \color{orange}Bozjan \space Phantom}$
 ### Cube Shape
 ```
 
@@ -57,8 +54,7 @@ Merciful Fourfold is deactivated by default until I find a way to have better ti
 ! Follow the Raid leader orders
 ```
 ***
-## Trinity Avowed
-## ${\sf \color{orange}Trinity \space Seeker}$
+## ${\sf \color{orange}Trinity \space Avowed}$
 ### Arsenal (Staff-Sword-Bow) | Gleaming Arrow
 ```
 ~Lv2~{"Name":"Trinity Avowed","Group":"Delubrum Reginae Savage","ZoneLockH":[937],"ElementsL":[{"Name":"Allegiant Arsenal Staff","type":1,"radius":10.0,"color":1677721855,"refActorDataID":12508,"refActorRequireCast":true,"refActorCastId":[22919],"refActorCastTimeMax":60.0,"refActorUseOvercast":true,"refActorComparisonType":3,"onlyTargetable":true,"onlyVisible":true,"Filled":true},{"Name":"Allegiant Arsenal Bow","type":4,"radius":35.0,"coneAngleMin":-135,"coneAngleMax":135,"refActorDataID":12508,"refActorRequireCast":true,"refActorCastId":[22918],"refActorCastTimeMax":30.0,"refActorUseOvercast":true,"refActorComparisonType":3,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"Filled":true},{"Name":"Allegiant Arsenal Sword & Shield","type":4,"radius":35.0,"coneAngleMin":-135,"coneAngleMax":135,"refActorDataID":12508,"refActorRequireCast":true,"refActorCastId":[22917],"refActorCastTimeMax":30.0,"refActorUseOvercast":true,"refActorComparisonType":3,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":3.1415927,"Filled":true},{"Name":"Gleaming Arrow","type":3,"refY":50.0,"radius":5.0,"thicc":0.1,"refActorNPCNameID":9854,"refActorRequireCast":true,"refActorCastId":[22861],"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true}]}
