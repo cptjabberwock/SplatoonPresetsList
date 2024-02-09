@@ -20,6 +20,7 @@ Merciful Fourfold is deactivated by default until I find a way to have better ti
 ! Dead Iron (Earthshaker) : find a way to make cones from boss to people with specific VFX on them
 ```
 ***
+## ${\sf \color{orange}Trinity \space Seeker}$
 ## DUEL - Stygimoloch Warrior
 ### Surge of Vigor (Dispel) | Unrelenting Charge (Anti Knockback) | Vicious Swipe (Out/In) | The 4 Traps to use | Sun's Ire (Enrage)
 ```
@@ -27,12 +28,14 @@ Merciful Fourfold is deactivated by default until I find a way to have better ti
 ```
 ***
 ## Dahu
+## ${\sf \color{orange}Trinity \space Seeker}$
 ### Firebreath | Charge | Feral Howl
 ```
 ~Lv2~{"Name":"Dahu","Group":"Delubrum Reginae Savage","ZoneLockH":[937],"ElementsL":[{"Name":"Firebreath","type":4,"radius":36.25,"coneAngleMin":-45,"coneAngleMax":45,"refActorDataID":12456,"refActorRequireCast":true,"refActorCastId":[22380],"refActorUseCastTime":true,"refActorCastTimeMax":4.5,"refActorUseOvercast":true,"refActorComparisonType":3,"includeRotation":true,"Filled":true},{"Name":"Charge","type":3,"refY":59.24,"radius":4.0,"thicc":0.0,"refActorDataID":12456,"refActorRequireCast":true,"refActorCastId":[22387],"FillStep":1.0,"refActorComparisonType":3,"includeRotation":true,"LimitDistanceInvert":true,"DistanceMin":17.300001,"DistanceMax":90.799995},{"Name":"Feral Howl","type":3,"offY":40.0,"radius":0.0,"thicc":10.0,"refActorNPCNameID":9751,"refActorRequireCast":true,"refActorCastId":[22375],"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true,"FaceMe":true}]}
 ```
 ***
 ## Queen's Guard
+## ${\sf \color{orange}Trinity \space Seeker}$
 ### Shield & Sword Omen (Knight) | Bombs (Warrior) / Secrets Revealed (Soldier) | Turret's Tour (Gunner)
 ```
 
@@ -45,6 +48,7 @@ Merciful Fourfold is deactivated by default until I find a way to have better ti
 ```
 ***
 ## Bozjan Phantom
+## ${\sf \color{orange}Trinity \space Seeker}$
 ### Cube Shape
 ```
 
@@ -55,6 +59,7 @@ Merciful Fourfold is deactivated by default until I find a way to have better ti
 ```
 ***
 ## Trinity Avowed
+## ${\sf \color{orange}Trinity \space Seeker}$
 ### Arsenal (Staff-Sword-Bow) | Gleaming Arrow
 ```
 ~Lv2~{"Name":"Trinity Avowed","Group":"Delubrum Reginae Savage","ZoneLockH":[937],"ElementsL":[{"Name":"Allegiant Arsenal Staff","type":1,"radius":10.0,"color":1677721855,"refActorDataID":12508,"refActorRequireCast":true,"refActorCastId":[22919],"refActorCastTimeMax":60.0,"refActorUseOvercast":true,"refActorComparisonType":3,"onlyTargetable":true,"onlyVisible":true,"Filled":true},{"Name":"Allegiant Arsenal Bow","type":4,"radius":35.0,"coneAngleMin":-135,"coneAngleMax":135,"refActorDataID":12508,"refActorRequireCast":true,"refActorCastId":[22918],"refActorCastTimeMax":30.0,"refActorUseOvercast":true,"refActorComparisonType":3,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"Filled":true},{"Name":"Allegiant Arsenal Sword & Shield","type":4,"radius":35.0,"coneAngleMin":-135,"coneAngleMax":135,"refActorDataID":12508,"refActorRequireCast":true,"refActorCastId":[22917],"refActorCastTimeMax":30.0,"refActorUseOvercast":true,"refActorComparisonType":3,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":3.1415927,"Filled":true},{"Name":"Gleaming Arrow","type":3,"refY":50.0,"radius":5.0,"thicc":0.1,"refActorNPCNameID":9854,"refActorRequireCast":true,"refActorCastId":[22861],"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true}]}
@@ -76,7 +81,7 @@ Fire 1 Meteor Safe Spot
 ! Blades of Entropy solver 
 ```
 ***
-## Stygimoloch Lord
+## ${\sf \color{orange}Stygimoloch \space Lord}$
 ### Ball of Earth/Fire (Healers) | Devastating Bolt Inner & Outer Rings | 1111-Tonze Swing
 ```
 ~Lv2~{"Name":"Stygimoloch Lord","Group":"Delubrum Reginae Savage","ZoneLockH":[937],"ElementsL":[{"Name":"Devastating Bolt Inner","type":1,"radius":12.0,"Donut":5.0,"refActorNPCNameID":9759,"refActorRequireCast":true,"refActorCastId":[22470],"FillStep":0.2,"refActorComparisonType":6},{"Name":"Devastating Bolt Outer","type":1,"radius":25.0,"Donut":5.0,"refActorNPCNameID":9759,"refActorRequireCast":true,"refActorCastId":[22470],"FillStep":0.2,"refActorComparisonType":6},{"Name":"Ball of Earth","type":1,"radius":0.0,"color":255,"overlayVOffset":1.0,"overlayFScale":1.5,"overlayText":"Dispel then hit","refActorNPCNameID":9763,"refActorComparisonType":6},{"Name":"Ball of Fire","type":1,"radius":6.0,"color":1677721855,"overlayVOffset":1.0,"overlayFScale":1.5,"overlayText":"Reflect","refActorNPCNameID":9761,"refActorRequireCast":true,"refActorCastId":[22494],"refActorComparisonType":6,"Filled":true},{"Name":"1111-tonze-swing","type":1,"radius":20.0,"color":1677721855,"refActorNPCNameID":9759,"refActorRequireCast":true,"refActorCastId":[22488],"refActorComparisonType":6,"Filled":true},{"Name":"WIP Crushing Hoof","type":1,"Enabled":false,"radius":25.0,"color":1677721855,"refActorDataID":12466,"refActorRequireCast":true,"refActorCastId":[22485,22486],"refActorComparisonType":3,"Filled":true},{"Name":"WIP Crushing Hoof","type":1,"Enabled":false,"radius":25.0,"color":1677721855,"refActorDataID":9020,"refActorRequireCast":true,"refActorCastId":[22485,22486],"refActorComparisonType":3,"Filled":true},{"Name":"WIP Pull","type":3,"Enabled":false,"radius":0.0,"refActorNPCNameID":9759,"refActorRequireCast":true,"refActorCastId":[22473,22474],"refActorRequireBuff":true,"refActorBuffId":[2430],"refActorComparisonType":6,"includeRotation":true,"FaceMe":true},{"Name":"WIP Push","type":3,"Enabled":false,"radius":0.0,"refActorNPCNameID":9759,"refActorRequireCast":true,"refActorCastId":[22473,22474],"refActorRequireBuff":true,"refActorBuffId":[2431],"refActorComparisonType":6,"includeRotation":true,"Filled":true,"FaceMe":true}]}
@@ -87,7 +92,8 @@ Fire 1 Meteor Safe Spot
 ! Crushing Hoof (Meteor Dive) AOE on the destination: Can't find the VFX for the proximity marker
 ```
 ***
-## The Queen
+## 
+## ${\sf \color{orange}The \space Queen}$
 ```
 
 ```
