@@ -1,4 +1,4 @@
-# $${\textsf \color{red}Delubrum \space Reginae \space (Savage)}$$
+# $${\sf \color{red}Delubrum \space Reginae \space (Savage)}$$
 # Delubrum Reginae (Savage)
 ## Trinity Seeker
 ### Merciful Fourfold (Blades of Mercy) | Merciful Blooms (growing aoe) | Merciful Moon (gaze) | Baleful Firestorm (Dashes)
