@@ -1,5 +1,4 @@
 # $${\sf \color{red}Delubrum \space Reginae \space (Savage)}$$
-# Delubrum Reginae (Savage)
 ## Trinity Seeker
 ### Merciful Fourfold (Blades of Mercy) | Merciful Blooms (growing aoe) | Merciful Moon (gaze) | Baleful Firestorm (Dashes)
 Merciful Fourfold is deactivated by default until I find a way to have better timing
