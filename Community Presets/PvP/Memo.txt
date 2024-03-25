@@ -1,16 +1,16 @@
-L1,L2,L3のテキストは高さを変えて重ならないようにしたい。
+I want to change the height of the texts in L1, L2, and L3 so that they do not overlap.
 
-L1  2ジョブ以上の共通効果と強力なCC（全ジョブで表示）
-    無敵
-        無敵,インビンシブル[PLD],アンデッド・リデンプション[DRK]
-    CC無効
-        活性,原初の解放[WAR],明鏡止水[SAM],時神のピーアン[BRD]
-    解除可能なCC
-        スタン,ヘヴィ,バインド,沈黙,徐々に睡眠,睡眠,氷結
-    解除不能なCC
-        ミラクル・オブ・ネイチャー[WHM],恐慌[RPR],誘惑[DNC]
-    軍用エリクサー
-    防御
+L1  Common effects for 2 or more jobs and powerful CC (displayed in all jobs)
+    Invincible
+        Invincible, Hallowed Ground [PLD], Undead Redemption [DRK]
+    CC Immune
+        Activation, Inner Release [WAR], Meikyo Shisui [SAM], The Warden's Paean [BRD]
+    Removable CC
+        Stun, Heavy, Bind, Silence, Half-asleep, Sleep, Deep Freeze
+    Irrevocable CC
+        Miracle of Nature [WHM], Hysteria [RPR], Seduced [DNC]
+    Standard-issue Elixir
+    Guard
 L2  1ジョブのみの固有効果（全ジョブで表示）
     ガーディアン[PLD](10秒間ダメ肩代わり,対象がオブジェクトアクセス中は不可)
     メソテース[SGE](条件付きダメージ無効)
