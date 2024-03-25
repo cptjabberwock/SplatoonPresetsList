@@ -1,10 +1,10 @@
-I want to change the height of the texts in L1, L2, and L3 so that they do not overlap.
+## I want to change the height of the texts in L1, L2, and L3 so that they do not overlap.
 
-### L1  Common effects for 2 or more jobs and powerful CC (displayed in all jobs)
+### L1 - Common effects for 2 or more jobs and powerful CC (displayed in all jobs)
 * Invincible
   * Invincible, Hallowed Ground [PLD], Undead Redemption [DRK]
 * CC Immune
-  * Activation, Inner Release [WAR], Meikyo Shisui [SAM], The Warden's Paean [BRD]
+  * Resilience, Inner Release [WAR], Meikyo Shisui [SAM], The Warden's Paean [BRD]
 * Removable CC
   * Stun, Heavy, Bind, Silence, Half-asleep, Sleep, Deep Freeze
 * Irrevocable CC
@@ -12,29 +12,31 @@ I want to change the height of the texts in L1, L2, and L3 so that they do not o
 * Standard-issue Elixir
 * Guard
 
-### L2 Unique effect for only one job (displayed for all jobs)
+### L2 - Unique effect for only one job (displayed for all jobs)
 * Guardian [PLD] (Replaces damage for 10 seconds, cannot be done while the target is accessing an object)
 * Mesothes [SGE] (conditional damage nullification)
 * Sky High [DRG]
 * Hide [NIN]
-* Earth and Heaven [SAM]
+* Chiten [SAM]
 * Soul Resonance [BLM]
-L3  1ジョブのみの固有効果（一部のジョブで表示）
-    崩し[SAM]
-    ホリッドロア[DRG]
-L4  その他のステータス（非表示）
-    軽減バフ
-        ファランクス(33%)[PLD],ナイトの堅守(15%)[PLD],ソルトアース(20%)[DRK],ネビュラ(20%)[GNB],連続剣(25%)[GNB],プロテス(10%)[WHM],怒涛の計(10%)[SCH],時神の護り(20%)[BRD],バマジク(10%)[RDM]
-    聖刻[PLD](対象者にHitでHP回復)
-    与ダメ上昇
-        星河一天[AST],守護のクレスト[RPR],進撃のマーチ[BRD],エイペックス・フォルテ[BRD],英雄のファンタジア[BRD]
-    被ダメージ上昇
-        オンスロート[WAR],トキシコン[SGE],トキシコンII[SGE],紅の竜血[DRG],フラズル[RDM]
-    与ダメージ減少
-        オロジェネシス[WAR],蠱毒[SCH],火焔[SMN]
-    回復阻害
-        ソウルサバイバー[DRK],枯骨法[SCH]
-    回復力効果UP
-        ノー・マーシー[GNB]
-    デミ・バハムート[SMN](周囲30m以内の残りHPが少ない対象にAA)
-    デミ・フェニックス[SMN](周囲30m以内の残りHPが少ない対象にAA)
+
+### L3 - Unique effects for only one job (displayed in some jobs)
+* Kuzushi [SAM]
+* Horrid Roar [DRG]
+    
+### L4 - Other status (hidden)
+* Reduction buff
+  * Phalanx (33%) [PLD], Knight's Resolve (15%) [PLD], Salted Earth (20%) [DRK], Nebula (20%) [GNB], Relentless Rush (25%) [GNB], Protect (10%) [WHM], Desperate Measures (10%) [SCH], Warden's Grace (20%) [BRD], Magick Barrier (10%) [RDM]
+* Sacred Claim [PLD] (Hit target to recover HP)
+* Player's Damage Dealt Increase
+  * Celestial River [AST], Crest of Time Borrowed [RPR], Frontliner's March [BRD], Frontliner's Forte [BRD], Final Fantasia [BRD]
+* Target's Damage Taken Increase
+  * Onslaught [WAR], Toxikon [SGE], Toxikon II [SGE], Life of the Dragon [DRG], Frazzle [RDM]
+* Target's Damage Dealt Reduction
+  * Orogeny [WAR], Biolytic [SCH], Scarlet Flame [SMN]
+* Target's Healing Reduction
+  * Sole Survivor [DRK], Mummification [SCH]
+* Player's Healing Increase
+  * No Mercy [GNB]
+* Demi Bahamut [SMN] (AA for targets with low remaining HP within 30m)
+* Demi Phoenix [SMN] (AA for targets with low remaining HP within 30m)
