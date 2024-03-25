@@ -1,23 +1,24 @@
 I want to change the height of the texts in L1, L2, and L3 so that they do not overlap.
 
-L1  Common effects for 2 or more jobs and powerful CC (displayed in all jobs)
-    Invincible
-        Invincible, Hallowed Ground [PLD], Undead Redemption [DRK]
-    CC Immune
-        Activation, Inner Release [WAR], Meikyo Shisui [SAM], The Warden's Paean [BRD]
-    Removable CC
-        Stun, Heavy, Bind, Silence, Half-asleep, Sleep, Deep Freeze
-    Irrevocable CC
-        Miracle of Nature [WHM], Hysteria [RPR], Seduced [DNC]
-    Standard-issue Elixir
-    Guard
-L2  1ジョブのみの固有効果（全ジョブで表示）
-    ガーディアン[PLD](10秒間ダメ肩代わり,対象がオブジェクトアクセス中は不可)
-    メソテース[SGE](条件付きダメージ無効)
-    スカイハイ[DRG]
-    かくれる[NIN]
-    地天[SAM]
-    ソウルレゾナンス[BLM]
+### L1  Common effects for 2 or more jobs and powerful CC (displayed in all jobs)
+* Invincible
+  * Invincible, Hallowed Ground [PLD], Undead Redemption [DRK]
+* CC Immune
+  * Activation, Inner Release [WAR], Meikyo Shisui [SAM], The Warden's Paean [BRD]
+* Removable CC
+  * Stun, Heavy, Bind, Silence, Half-asleep, Sleep, Deep Freeze
+* Irrevocable CC
+  * Miracle of Nature [WHM], Hysteria [RPR], Seduced [DNC]
+* Standard-issue Elixir
+* Guard
+
+### L2 Unique effect for only one job (displayed for all jobs)
+* Guardian [PLD] (Replaces damage for 10 seconds, cannot be done while the target is accessing an object)
+* Mesothes [SGE] (conditional damage nullification)
+* Sky High [DRG]
+* Hide [NIN]
+* Earth and Heaven [SAM]
+* Soul Resonance [BLM]
 L3  1ジョブのみの固有効果（一部のジョブで表示）
     崩し[SAM]
     ホリッドロア[DRG]
