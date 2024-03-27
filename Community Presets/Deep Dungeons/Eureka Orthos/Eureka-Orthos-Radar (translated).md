@@ -61,7 +61,7 @@ Display range : 100m
 * Trap Hitbox
    * Display a green circle around yourself (radius : 1.2m + your hitbox)
    * How to know if you are in contact with a trap
-      * When the displayed circle touches the point indicated by the [Deep Dungeon Helper](https://github.com/Speshkitty/DalamudPlugins/blob/main/repo.json) plug-in, the trap will detonate if one exists at that location.
+      * When the displayed circle touches the point indicated by the [Palace Pal](https://github.com/PunishXIV/PalacePal) plug-in, the trap will detonate if one exists at that location.
       * Similarly, treasures found by treasure detection can be dug up by placing them within the circle displayed by the Trap Hitbox.
 
 * Mimic Sensing Range
