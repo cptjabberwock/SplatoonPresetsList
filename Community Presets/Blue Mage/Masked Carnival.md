@@ -1,5 +1,5 @@
 # Masked Carnival
-## Stage 32
+## Stage 32 - Goldor
 by BubblegumPrincess & Feral
 
 * Safe spots for Goldor Act 2. Not very elegant but if you stand at the middle of red circles you'll always be safe (@BubblegumPrincess)
