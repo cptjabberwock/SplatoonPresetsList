@@ -1,3 +1,4 @@
+*Tethers you to the Hunt Marks
 # Endwalker
 
 ## S Ranks
