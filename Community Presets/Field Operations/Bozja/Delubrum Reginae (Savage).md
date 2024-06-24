@@ -1,7 +1,7 @@
 # $${\sf \color{red}Delubrum \space Reginae \space (Savage)}$$
 ## ${\sf \color{orange}Trinity \space Seeker}$
-### Merciful Fourfold (Blades of Mercy) | Merciful Blooms (growing aoe) | Merciful Moon (gaze) | Baleful Firestorm (Dashes)
-Merciful Fourfold is deactivated by default until I find a way to have better timing
+### Merciful Fourfold (Blades of Mercy) | Seasons of Mercy (growing aoe + gaze) | Baleful Firestorm (Dashes)
+* Merciful Fourfold is deactivated by default until I find a way to have better timing
 ```
 ~Lv2~{"Name":"Trinity Seeker","Group":"Delubrum Reginae Savage","ZoneLockH":[937],"ElementsL":[{"Name":"Forward Right","type":3,"Enabled":false,"refY":19.96,"radius":23.19,"thicc":0.4,"refActorCastTimeMax":10.0,"refActorUseOvercast":true,"refActorRequireBuff":true,"refActorBuffId":[2489],"refActorComparisonType":7,"includeHitbox":true,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":0.7853982,"refActorVFXPath":"vfx/common/eff/m0690_stlp_fr_00c_n1.avfx","refActorVFXMin":9500,"refActorVFXMax":13500},{"Name":"Forward Left","type":3,"Enabled":false,"refY":19.96,"radius":23.19,"thicc":0.4,"refActorCastTimeMax":10.0,"refActorUseOvercast":true,"refActorRequireBuff":true,"refActorBuffId":[2489],"refActorComparisonType":7,"includeHitbox":true,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":5.497787,"refActorVFXPath":"vfx/common/eff/m0690_stlp_fl_00c_n1.avfx","refActorVFXMin":9500,"refActorVFXMax":13500},{"Name":"Back Right","type":3,"Enabled":false,"refY":19.92,"radius":23.19,"thicc":0.4,"refActorCastTimeMax":10.0,"refActorUseOvercast":true,"refActorRequireBuff":true,"refActorBuffId":[2489],"refActorComparisonType":7,"includeHitbox":true,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":2.3561945,"refActorVFXPath":"vfx/common/eff/m0690_stlp_br_00c_n1.avfx","refActorVFXMin":9500,"refActorVFXMax":13500},{"Name":"Back Left","type":3,"Enabled":false,"refY":19.92,"radius":23.19,"thicc":0.4,"refActorCastTimeMax":10.0,"refActorUseOvercast":true,"refActorRequireBuff":true,"refActorBuffId":[2489],"refActorComparisonType":7,"includeHitbox":true,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":3.9269907,"refActorVFXPath":"vfx/common/eff/m0690_stlp_bl_00c_n1.avfx","refActorVFXMin":9500,"refActorVFXMax":13500},{"Name":"Merciful Blooms","type":1,"radius":20.0,"color":1677721855,"refActorDataID":9020,"refActorRequireCast":true,"refActorCastId":[23242],"refActorCastTimeMin":4.0,"refActorCastTimeMax":10.0,"refActorUseOvercast":true,"refActorComparisonType":3,"onlyUnTargetable":true,"Filled":true},{"Name":"Gaze","type":1,"radius":0.44,"color":3355507455,"overlayFScale":3.0,"thicc":3.0,"overlayText":"Look Away","refActorDataID":12599,"refActorObjectLife":true,"refActorLifetimeMin":0.0,"refActorLifetimeMax":7.0,"refActorComparisonType":3,"includeRotation":true,"onlyVisible":true,"tether":true},{"Name":"Baleful Firestorm","type":3,"refY":50.0,"radius":10.0,"color":1258291455,"refActorNPCNameID":9835,"refActorRequireCast":true,"refActorCastId":[23256],"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true}]}
 ```
@@ -13,24 +13,26 @@ Merciful Fourfold is deactivated by default until I find a way to have better ti
 ```
 ~Lv2~{"Name":"Trinity Seeker - Baleful Blade Knockback","Group":"Delubrum Reginae Savage","ZoneLockH":[937],"DCond":5,"ElementsL":[{"Name":"Baleful Blade Knockback","refY":278.0,"refZ":8.000001,"radius":0.0,"color":1677786880,"overlayVOffset":0.5,"overlayFScale":2.0,"thicc":0.0,"overlayText":"In front of Barricades","refActorNPCNameID":9834,"refActorRequireCast":true,"refActorCastId":[23230],"refActorComparisonType":6,"onlyTargetable":true,"onlyVisible":true},{"Name":"Baleful Blade Knockback SW","type":5,"refY":278.0,"refZ":8.0,"radius":20.0,"coneAngleMin":-22,"coneAngleMax":22,"color":1677786880,"thicc":4.0,"includeRotation":true,"AdditionalRotation":0.7853982,"Filled":true},{"Name":"Baleful Blade Knockback NW","type":5,"refY":278.0,"refZ":8.0,"radius":20.0,"coneAngleMin":-22,"coneAngleMax":22,"color":1677786880,"thicc":4.0,"includeRotation":true,"AdditionalRotation":2.3561945,"Filled":true},{"Name":"Baleful Blade Knockback NE","type":5,"refY":278.0,"refZ":8.0,"radius":20.0,"coneAngleMin":-22,"coneAngleMax":22,"color":1677786880,"thicc":4.0,"includeRotation":true,"AdditionalRotation":3.9269907,"Filled":true},{"Name":"Baleful Blade Knockback SE","type":5,"refY":278.0,"refZ":8.0,"radius":20.0,"coneAngleMin":-22,"coneAngleMax":22,"color":1677786880,"thicc":4.0,"includeRotation":true,"AdditionalRotation":5.497787,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":8.0,"MatchIntl":{"En":"Trinity Seeker starts casting 23231 (9834>23231)"}}]}
 ```
-### Baleful Onslaught (Side Swipes)
+### Baleful Onslaught (Tankbuster Cone)
 ```
 Placeholder
 ```
-### Cross Shape
+### Baleful Swathe (Side Swipes)
 ```
 Placeholder
 ```
-### Tankbuster Cone
+### Act of Mercy (Cross Shape)
 ```
 Placeholder
 ```
 **To do**
 ```diff
 ! Side Swipes, Tankbuster cone and Cross shape
-! Iron Splitter (Sand & Tiles) : Spell ID & VFX are the same for Sand & Tiles both AND the same for the Trinity and its avatars
-! Improve timing on Blades of Mercy : Resolution have faster cast time than the readyness so it resolve faster than the layout have time to disappear or appear
+! Iron Splitter (Sand & Tiles) : No way to diffrerentiate using base Splatoon, it would need a script that calculate distance of boss + Avatar castin Iron Splitter from the Center of Arena
+! Timing on Blades of Mercy : Resolution have faster cast time than the readyness so it resolve faster than the layout have time to disappear or appear
 ! Dead Iron (Earthshaker) : find a way to make cones from boss to people with specific VFX on them
+! Burning Chains : do I need to explain with a text over your character ?
+! Merciful Arc : Tankbuster cleave but not the same as Baleful Onslaught ? Cast Once before first Baleful Swathe
 ```
 ***
 ## ${\sf \color{orange}DUEL \space - \space Stygimoloch \space Warrior}$
@@ -44,9 +46,13 @@ Placeholder
 ```
 ***
 ## ${\sf \color{orange}Dahu}$
-### Firebreath | Charge | Feral Howl
+### Firebreathe | Hot Charge | Feral Howl
 ```
-~Lv2~{"Name":"Dahu","Group":"Delubrum Reginae Savage","ZoneLockH":[937],"ElementsL":[{"Name":"Firebreath","type":4,"radius":36.25,"coneAngleMin":-45,"coneAngleMax":45,"refActorDataID":12456,"refActorRequireCast":true,"refActorCastId":[22380],"refActorUseCastTime":true,"refActorCastTimeMax":4.5,"refActorUseOvercast":true,"refActorComparisonType":3,"includeRotation":true,"Filled":true},{"Name":"Charge","type":3,"refY":59.24,"radius":4.0,"thicc":0.0,"refActorDataID":12456,"refActorRequireCast":true,"refActorCastId":[22387],"FillStep":1.0,"refActorComparisonType":3,"includeRotation":true,"LimitDistanceInvert":true,"DistanceMin":17.300001,"DistanceMax":90.799995},{"Name":"Feral Howl","type":3,"offY":40.0,"radius":0.0,"thicc":10.0,"refActorNPCNameID":9751,"refActorRequireCast":true,"refActorCastId":[22375],"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true,"FaceMe":true}]}
+~Lv2~{"Name":"Dahu","Group":"Delubrum Reginae Savage","ZoneLockH":[937],"ElementsL":[{"Name":"Firebreathe","type":4,"radius":36.25,"coneAngleMin":-45,"coneAngleMax":45,"refActorDataID":12456,"refActorRequireCast":true,"refActorCastId":[22380],"refActorUseCastTime":true,"refActorCastTimeMax":4.5,"refActorUseOvercast":true,"refActorComparisonType":3,"includeRotation":true,"Filled":true},{"Name":"Charge","type":3,"refY":59.24,"radius":4.0,"thicc":0.0,"refActorDataID":12456,"refActorRequireCast":true,"refActorCastId":[22387],"FillStep":1.0,"refActorComparisonType":3,"includeRotation":true,"LimitDistanceInvert":true,"DistanceMin":17.300001,"DistanceMax":90.799995},{"Name":"Feral Howl","type":3,"offY":40.0,"radius":0.0,"thicc":10.0,"refActorNPCNameID":9751,"refActorRequireCast":true,"refActorCastId":[22375],"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true,"FaceMe":true}]}
+```
+**To do**
+```diff
+! Spit Flame : Maybe this will need a script to tether to the Waymark you need to go to
 ```
 ***
 ## ${\sf \color{orange}Queen's \space Guard}$
