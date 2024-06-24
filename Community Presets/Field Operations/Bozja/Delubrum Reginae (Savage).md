@@ -56,15 +56,25 @@ Placeholder
 ```
 ***
 ## ${\sf \color{orange}Queen's \space Guard}$
-### Shield & Sword Omen (Knight) | Bombs (Warrior) / Secrets Revealed (Soldier) | Turret's Tour (Gunner)
+### Shield & Sword Omen (Knight) | Secrets Revealed (Soldier)
+* Shield & Sword Omen is 1/4th done
 ```
 
 ```
 **To do**
 ```diff
-! Differentiate the turrets with the Mustadio vuln and the normal Turret Tour
-! Wind and thunder circles depending on Debuff or not
-! Bombs
+! Spellforge/SteelSting + Dispel Warrior: text + AOE Circle under them with same color as needed buff
+! Optimal Offensive: Shield Omen (Knockback) + Sword Omen (Big Circle AOE) : Aetherial Sphere in center with a charge towards it (Need to make a Line preset so people don't stay in the charge and take a Doom Stack)
+! Optimal Play : Shield Omen (Donut) + Sword Omen (Circle) : Need to find a way to target the Blades VFX for a Cone Aoe combined with the Shield or Sword
+! Bombslinger & Above Board: Big Bombs drop before small bombs and Players drop like small bombs normally
+! Reversal of Forces : Tethered players and/or Bombs will drop first
+! Winds of Weight : 2 Wind and 2 Lightning AOE appear : Tethered players need to go wind, not tethered go to Lightning
+! Reading + Queen's Shot : Gets an Unseen buff with a 1 open side vfx on you, face Queen's Gunner with open side before Queen's Shot is cast then to the turret on the side of the arena
+! Gun Turret : Adds that need to be killed or wipe
+! Higher Power : Dispel damage buff in Gun Turrets
+! Great Ball of Fire : Summon 4 Fireballs (2 small and 2 big), Draw size of aoe depending on the size of the ball
+! Icy/Fiery Portent: Move/Stop Moving when cast : Text
+! Double Gambit + Secrets Revealed : Already Works I think
 ```
 ***
 ## ${\sf \color{orange}Bozjan \space Phantom}$
