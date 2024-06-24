@@ -75,6 +75,8 @@ Placeholder
 ! Great Ball of Fire : Summon 4 Fireballs (2 small and 2 big), Draw size of aoe depending on the size of the ball
 ! Icy/Fiery Portent: Move/Stop Moving when cast : Text
 ! Double Gambit + Secrets Revealed : Already Works I think
+! Aura Sphere casting Fracture : AOE circle with Text for Healer Reflect
+! Coat of Arms : maybe see if the spell is different for sides and Front/back so I can put Cones for best angle
 ```
 ***
 ## ${\sf \color{orange}Bozjan \space Phantom}$
