@@ -90,25 +90,16 @@ Placeholder
 ```
 ***
 ## ${\sf \color{orange}Trinity \space Avowed}$
-### Arsenal (Staff-Sword-Bow) | Gleaming Arrow
+### Allegiant Arsenal (Staff-Sword-Bow) | Gleaming Arrow
 ```
 ~Lv2~{"Name":"Trinity Avowed","Group":"Delubrum Reginae Savage","ZoneLockH":[937],"ElementsL":[{"Name":"Allegiant Arsenal Staff","type":1,"radius":10.0,"color":1677721855,"refActorDataID":12508,"refActorRequireCast":true,"refActorCastId":[22919],"refActorCastTimeMax":60.0,"refActorUseOvercast":true,"refActorComparisonType":3,"onlyTargetable":true,"onlyVisible":true,"Filled":true},{"Name":"Allegiant Arsenal Bow","type":4,"radius":35.0,"coneAngleMin":-135,"coneAngleMax":135,"refActorDataID":12508,"refActorRequireCast":true,"refActorCastId":[22918],"refActorCastTimeMax":30.0,"refActorUseOvercast":true,"refActorComparisonType":3,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"Filled":true},{"Name":"Allegiant Arsenal Sword & Shield","type":4,"radius":35.0,"coneAngleMin":-135,"coneAngleMax":135,"refActorDataID":12508,"refActorRequireCast":true,"refActorCastId":[22917],"refActorCastTimeMax":30.0,"refActorUseOvercast":true,"refActorComparisonType":3,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":3.1415927,"Filled":true},{"Name":"Gleaming Arrow","type":3,"refY":50.0,"radius":5.0,"thicc":0.1,"refActorNPCNameID":9854,"refActorRequireCast":true,"refActorCastId":[22861],"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true}]}
 ```
-###  Hot & Cold (Meteors)
-Ice 1 Meteor Safe Spot
-```
-
-```
-Fire 1 Meteor Safe Spot
-```
-
-```
 **To do**
 ```diff
-! Ice and Fire 2 Meteor safe spots
-! meteors but with Brand the second time
-! Arrow solver : May need a script to solve it (maybe ask Bossmod Dev if he could tell us)
-! Blades of Entropy solver 
+! Freedom of Bozja : Ice and Fire 1&2 Meteor safe spots (And with the Brand)
+! Arrow solver : May need a script to solve it (maybe ask Bossmod Dev if he could help us)
+! Blades of Entropy solver : I think this may end up as a gigantic preset with how many combination there is
+! Wrath of Bozja : Cone Aoe
 ```
 ***
 ## ${\sf \color{orange}Stygimoloch \space Lord}$
@@ -118,8 +109,10 @@ Fire 1 Meteor Safe Spot
 ```
 **To do**
 ```diff
+! Foe Splitter : Tankbuster CLeave, maybe put a cone here
+! Vicious Swipe : Put a text to tell to use Arms Length or Surecast
 ! Push and Pull Debuff resolution
-! Crushing Hoof (Meteor Dive) AOE on the destination: Can't find the VFX for the proximity marker
+! Crashing Hoof (Meteor Dive) AOE on the destination: Can't find the VFX for the proximity marker
 ```
 ***
 ## 
@@ -129,7 +122,11 @@ Fire 1 Meteor Safe Spot
 ```
 **To do**
 ```diff
-! Chess Solver (may need a script)
-! make sure Queen's Guard Mechs applies here
-! Judgment Blade
+! Queen’s Will + Beck and Call to Arms : Cross Shape AOE
+! Northswain’s Glow : Make sure it still works from the Normal version
+! Gods Save the Queen : Lightning balls that need to be reflected, Make an AOE on the still active balls to mark the AOE circle for people that don't want to use a Light Curtain
+  ! The Queen also gain 4 buffs that needs to be dispelled, I need to find a way to show text when shehas those buffs
+! Queen's Edict : Chess Solver (may need a script)
+! Judgment Blade : Half Room Cleave 
+! Relentless Play : make sure Queen's Guard Mechs applies here because most Spell ID are different so I need to refind them
 ```
