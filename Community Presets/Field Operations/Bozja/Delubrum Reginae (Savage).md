@@ -125,7 +125,7 @@ Placeholder
 ! Queen’s Will + Beck and Call to Arms : Cross Shape AOE
 ! Northswain’s Glow : Make sure it still works from the Normal version
 ! Gods Save the Queen : Lightning balls that need to be reflected, Make an AOE on the still active balls to mark the AOE circle for people that don't want to use a Light Curtain
-  ! The Queen also gain 4 buffs that needs to be dispelled, I need to find a way to show text when shehas those buffs
+! The Queen also gain 4 buffs that needs to be dispelled, I need to find a way to show text when shehas those buffs
 ! Queen's Edict : Chess Solver (may need a script)
 ! Judgment Blade : Half Room Cleave 
 ! Relentless Play : make sure Queen's Guard Mechs applies here because most Spell ID are different so I need to refind them
