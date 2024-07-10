@@ -1,3 +1,4 @@
+Thanks Guy_
 ### Boss 2
 ```
 ~Lv2~{"Name":"Firearms","Group":"The Skydeep Cenote","ZoneLockH":[1194],"ElementsL":[{"Name":"burst line","type":3,"refY":47.24,"offY":-2.0,"radius":3.95,"refActorNPCNameID":12888,"refActorRequireCast":true,"refActorCastId":[38581,38582,38583,38584],"refActorComparisonType":6,"includeRotation":true},{"Name":"burst aoe","type":1,"radius":35.0,"refActorNPCNameID":12888,"refActorRequireCast":true,"refActorCastId":[36445],"refActorComparisonType":6},{"Name":"artillery1","type":3,"refY":40.0,"offY":-40.0,"radius":5.0,"refActorDataID":9020,"refActorRequireCast":true,"refActorCastId":[38660],"refActorComparisonType":3,"includeRotation":true,"AdditionalRotation":1.5707964},{"Name":"artillery2","type":3,"refY":40.0,"offY":-40.0,"radius":5.0,"refActorDataID":9020,"refActorRequireCast":true,"refActorCastId":[38660],"refActorComparisonType":3,"includeRotation":true}]}
