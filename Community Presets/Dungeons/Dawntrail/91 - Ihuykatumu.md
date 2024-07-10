@@ -1,3 +1,4 @@
+Thanks Guy_
 ### Boss 2
 ```
 ~Lv2~{"Name":"Drowsie","Group":"Ihuykatumu","ZoneLockH":[1167],"ElementsL":[{"Name":"smol","type":3,"refY":48.88,"radius":5.0,"fillIntensity":0.666,"originFillColor":1157628159,"endFillColor":1157628159,"thicc":1.0,"refActorNPCNameID":12721,"refActorRequireCast":true,"refActorCastId":[36479],"refActorComparisonType":6,"includeRotation":true},{"Name":"big","type":3,"refY":48.88,"radius":8.0,"fillIntensity":0.666,"originFillColor":1157628159,"endFillColor":1157628159,"thicc":1.0,"refActorNPCNameID":12721,"refActorRequireCast":true,"refActorCastId":[36482],"refActorComparisonType":6,"includeRotation":true}]}
