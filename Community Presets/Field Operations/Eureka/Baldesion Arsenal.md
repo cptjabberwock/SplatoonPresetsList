@@ -1,4 +1,4 @@
-# $${\sf \color{red}Baldesion \space Arsenal}$$
+# ${\sf \color{red}Baldesion \space Arsenal}$
 ## ${\sf \color{orange}Art/Owain}$
 ### WIP
 ```
