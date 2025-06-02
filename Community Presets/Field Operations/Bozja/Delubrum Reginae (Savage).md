@@ -1,5 +1,5 @@
-# $${\sf \color{red}Delubrum \space Reginae \space (Savage)}$$
-## ${\sf \color{orange}Trinity \space Seeker}$
+# 🔴 Delubrum Reginae *(Savage)*
+## 🟠 Trinity Seeker
 ### Merciful Fourfold (Blades of Mercy) | Seasons of Mercy (growing aoe + gaze) | Baleful Firestorm (Dashes)
 * Merciful Fourfold is deactivated by default until I find a way to have better timing
 ```
@@ -35,7 +35,7 @@ Placeholder
 ! Merciful Arc : Tankbuster cleave but not the same as Baleful Onslaught ? Cast Once before first Baleful Swathe
 ```
 ***
-## ${\sf \color{orange}DUEL \space - \space Stygimoloch \space Warrior}$
+## 🟠 DUEL - Stygimoloch Warrior
 ### Surge of Vigor (Dispel) | Unrelenting Charge (Anti Knockback) | Vicious Swipe (Out/In) | The 4 Traps to use | Sun's Ire (Enrage)
 ```
 ~Lv2~{"Name":"Duel - Stygimoloch Warrior","Group":"Delubrum Reginae Savage","ZoneLockH":[937],"ElementsL":[{"Name":"Surge of Vigor","type":1,"radius":0.0,"overlayVOffset":1.0,"overlayFScale":1.5,"thicc":0.0,"overlayText":"DISPEL THE BUFF","refActorNPCNameID":9754,"refActorRequireCast":true,"refActorCastId":[22422],"refActorUseCastTime":true,"refActorCastTimeMax":5.0,"refActorUseOvercast":true,"refActorComparisonType":6,"onlyVisible":true},{"Name":"Unrelenting Charge","type":1,"radius":0.0,"overlayVOffset":1.0,"overlayFScale":1.5,"thicc":0.0,"overlayText":"USE ARMS LENGTH/SURECAST","refActorNPCNameID":9754,"refActorRequireCast":true,"refActorCastId":[22425,22426],"refActorComparisonType":6,"onlyVisible":true},{"Name":"Vicious Swipe","type":1,"radius":0.04,"overlayVOffset":1.0,"overlayFScale":1.5,"thicc":0.0,"overlayText":"OUT THEN IN FOR KNOCKBACK","refActorNPCNameID":9754,"refActorRequireCast":true,"refActorCastId":[22423],"refActorComparisonType":6,"onlyVisible":true},{"Name":"Withering Curse","type":1,"radius":0.0,"overlayVOffset":1.0,"overlayFScale":1.5,"thicc":0.0,"overlayText":"USE MINI TRAP (Pink)","refActorNPCNameID":9754,"refActorRequireCast":true,"refActorCastId":[22405,22406],"refActorComparisonType":6,"onlyVisible":true},{"Name":"Surging Flames","type":1,"radius":0.0,"overlayVOffset":1.0,"overlayFScale":1.5,"thicc":0.0,"overlayText":"USE FROST TRAP (Blue)","refActorNPCNameID":9754,"refActorRequireCast":true,"refActorCastId":[22401,22402],"refActorComparisonType":6,"onlyVisible":true},{"Name":"Surging Flood","type":1,"radius":0.0,"overlayVOffset":1.0,"overlayFScale":1.5,"thicc":0.0,"overlayText":"USE FROG TRAP (Green)","refActorNPCNameID":9754,"refActorRequireCast":true,"refActorCastId":[22403,22404],"refActorComparisonType":6,"onlyVisible":true},{"Name":"Leaping Spark","type":1,"radius":0.0,"overlayVOffset":1.0,"overlayFScale":1.5,"thicc":0.0,"overlayText":"USE FROG TRAP AGAIN","refActorNPCNameID":9754,"refActorRequireCast":true,"refActorCastId":[22410,22411],"refActorComparisonType":6,"onlyVisible":true},{"Name":"Sun's Ire (Enrage)","type":1,"radius":0.0,"overlayVOffset":1.0,"overlayFScale":2.0,"thicc":0.0,"overlayText":"KILL HIMMMMMM (ENRAGE)","refActorNPCNameID":9754,"refActorRequireCast":true,"refActorCastId":[22394,22395,22446],"refActorComparisonType":6,"onlyVisible":true}]}
@@ -55,7 +55,7 @@ Placeholder
 ! Spit Flame : Maybe this will need a script to tether to the Waymark you need to go to
 ```
 ***
-## ${\sf \color{orange}Queen's \space Guard}$
+## 🟠 Queen's Guard
 ### Shield & Sword Omen (Knight) | Secrets Revealed (Soldier)
 * Shield & Sword Omen is 1/4th done
 ```
@@ -89,7 +89,7 @@ Placeholder
 ! Follow the Raid leader orders
 ```
 ***
-## ${\sf \color{orange}Trinity \space Avowed}$
+## 🟠 Trinity Avowed
 ### Allegiant Arsenal (Staff-Sword-Bow) | Gleaming Arrow
 ```
 ~Lv2~{"Name":"Trinity Avowed","Group":"Delubrum Reginae Savage","ZoneLockH":[937],"ElementsL":[{"Name":"Allegiant Arsenal Staff","type":1,"radius":10.0,"color":1677721855,"refActorDataID":12508,"refActorRequireCast":true,"refActorCastId":[22919],"refActorCastTimeMax":60.0,"refActorUseOvercast":true,"refActorComparisonType":3,"onlyTargetable":true,"onlyVisible":true,"Filled":true},{"Name":"Allegiant Arsenal Bow","type":4,"radius":35.0,"coneAngleMin":-135,"coneAngleMax":135,"refActorDataID":12508,"refActorRequireCast":true,"refActorCastId":[22918],"refActorCastTimeMax":30.0,"refActorUseOvercast":true,"refActorComparisonType":3,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"Filled":true},{"Name":"Allegiant Arsenal Sword & Shield","type":4,"radius":35.0,"coneAngleMin":-135,"coneAngleMax":135,"refActorDataID":12508,"refActorRequireCast":true,"refActorCastId":[22917],"refActorCastTimeMax":30.0,"refActorUseOvercast":true,"refActorComparisonType":3,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":3.1415927,"Filled":true},{"Name":"Gleaming Arrow","type":3,"refY":50.0,"radius":5.0,"thicc":0.1,"refActorNPCNameID":9854,"refActorRequireCast":true,"refActorCastId":[22861],"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true}]}
@@ -102,7 +102,7 @@ Placeholder
 ! Wrath of Bozja : Cone Aoe
 ```
 ***
-## ${\sf \color{orange}Stygimoloch \space Lord}$
+## 🟠 Stygimoloch Lord
 ### Ball of Earth/Fire (Healers) | Devastating Bolt Inner & Outer Rings | 1111-Tonze Swing
 ```
 ~Lv2~{"Name":"Stygimoloch Lord","Group":"Delubrum Reginae Savage","ZoneLockH":[937],"ElementsL":[{"Name":"Devastating Bolt Inner","type":1,"radius":12.0,"Donut":5.0,"refActorNPCNameID":9759,"refActorRequireCast":true,"refActorCastId":[22470],"FillStep":0.2,"refActorComparisonType":6},{"Name":"Devastating Bolt Outer","type":1,"radius":25.0,"Donut":5.0,"refActorNPCNameID":9759,"refActorRequireCast":true,"refActorCastId":[22470],"FillStep":0.2,"refActorComparisonType":6},{"Name":"Ball of Earth","type":1,"radius":0.0,"color":255,"overlayVOffset":1.0,"overlayFScale":1.5,"overlayText":"Dispel then hit","refActorNPCNameID":9763,"refActorComparisonType":6},{"Name":"Ball of Fire","type":1,"radius":6.0,"color":1677721855,"overlayVOffset":1.0,"overlayFScale":1.5,"overlayText":"Reflect","refActorNPCNameID":9761,"refActorRequireCast":true,"refActorCastId":[22494],"refActorComparisonType":6,"Filled":true},{"Name":"1111-tonze-swing","type":1,"radius":20.0,"color":1677721855,"refActorNPCNameID":9759,"refActorRequireCast":true,"refActorCastId":[22488],"refActorComparisonType":6,"Filled":true},{"Name":"WIP Crushing Hoof","type":1,"Enabled":false,"radius":25.0,"color":1677721855,"refActorDataID":12466,"refActorRequireCast":true,"refActorCastId":[22485,22486],"refActorComparisonType":3,"Filled":true},{"Name":"WIP Crushing Hoof","type":1,"Enabled":false,"radius":25.0,"color":1677721855,"refActorDataID":9020,"refActorRequireCast":true,"refActorCastId":[22485,22486],"refActorComparisonType":3,"Filled":true},{"Name":"WIP Pull","type":3,"Enabled":false,"radius":0.0,"refActorNPCNameID":9759,"refActorRequireCast":true,"refActorCastId":[22473,22474],"refActorRequireBuff":true,"refActorBuffId":[2430],"refActorComparisonType":6,"includeRotation":true,"FaceMe":true},{"Name":"WIP Push","type":3,"Enabled":false,"radius":0.0,"refActorNPCNameID":9759,"refActorRequireCast":true,"refActorCastId":[22473,22474],"refActorRequireBuff":true,"refActorBuffId":[2431],"refActorComparisonType":6,"includeRotation":true,"Filled":true,"FaceMe":true}]}
@@ -116,7 +116,7 @@ Placeholder
 ```
 ***
 ## 
-## ${\sf \color{orange}The \space Queen}$
+## 🟠 The Queen
 ```
 
 ```
